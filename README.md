@@ -8,7 +8,7 @@
 2. Стек и требования
 БД: SQLite 3 (aty_database 1.db)
 
-Дашборд: Yandex DataLens
+Дашборд: Yandex DataLens https://datalens.yandex/qgn1yxm05yiga
 
 Инструмент: DB Browser for SQLite, Yandex DataLens
 
